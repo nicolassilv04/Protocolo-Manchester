@@ -2,7 +2,9 @@
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Este projeto é um simulador de sistema de triagem hospitalar baseado no Protocolo de Manchester. Ele foi desenvolvido como uma atividade acadêmica para a disciplina de Estrutura de Dados.
+Este projeto é um simulador de sistema de triagem hospitalar baseado no Protocolo de Manchester. Ele foi desenvolvido como avaliação (prova) para a disciplina de **Estrutura de Dados** do curso de **Inteligência Artificial** da **Fatec Rio Claro**.
+
+O projeto foi proposto e orientado pelo Prof. Me. Orlando Saraiva Jr. (GitHub: [@orlandosaraivajr](https://github.com/orlandosaraivajr)).
 
 O objetivo principal é aplicar na prática duas estruturas de dados fundamentais:
 1.  **Árvores de Decisão:** para classificar a urgência do paciente.
